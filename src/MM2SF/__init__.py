@@ -9,6 +9,7 @@ print(
                        of Local Chemical Descriptors
 
      Theoretical and Computational Chemistry Group, University of Oviedo.
+        Quantum Chemical Topology Group, The University of Manchester
 
     M. Gallegos, B. K. Isamura, P. L. A. Popelier and A. Martin Pendas (2024).
 ##################################################################################
